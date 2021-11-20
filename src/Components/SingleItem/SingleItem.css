@@ -1,0 +1,28 @@
+.mealCart{
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    padding: 5px;
+    border-bottom-right-radius: 20px;
+    text-align: justify;
+}
+.mealCart img{
+    width: 100%;
+}
+.buttons{
+    display: flex;
+    justify-content: space-between;
+}
+.readMore{
+    display: block;
+}
+.addToCartBtn{
+    font-weight: 500;
+    background: seagreen;
+    color: #fff;
+    font-family: monospace;
+    padding: 10px 15px;
+    display: block;
+    margin-top: 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}

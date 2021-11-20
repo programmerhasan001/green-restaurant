@@ -1,0 +1,13 @@
+.restaurant-container{
+    display: flex;
+}
+.items{
+    width: 80%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    margin: 20px;
+}
+.cart{
+    width: 20%;
+}

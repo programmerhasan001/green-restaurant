@@ -1,0 +1,22 @@
+.header{
+    text-align: center;
+    font-family: cursive;
+    background: url('../../utilities/background/greenRestaurantBg.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 60px 0 90px 0;
+}
+.header h1{
+    font-size: 50px;
+    background: #25CC0F;
+    background: -webkit-linear-gradient(to bottom right, #25CC0F 0%, #9E3212 100%);
+    background: -moz-linear-gradient(to bottom right, #25CC0F 0%, #9E3212 100%);
+    background: linear-gradient(to bottom right, #25CC0F 0%, #9E3212 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.header p{
+    color: whitesmoke;
+    font-size: 18px;
+}
